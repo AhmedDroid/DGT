@@ -1,0 +1,2 @@
+include ':app', ':data', ':login'
+rootProject.name='Digital Gates Task'
